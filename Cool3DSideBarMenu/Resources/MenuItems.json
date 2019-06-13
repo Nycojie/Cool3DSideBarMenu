@@ -1,0 +1,35 @@
+[ {
+  "imageName":"smile",
+  "bigImageName":"smile_big",
+  "colorArray":"F95407"
+},
+{
+  "imageName":"coffee",
+  "bigImageName":"coffee_big",
+  "colorArray":"453B37"
+},
+{
+  "imageName":"drinks",
+  "bigImageName":"drinks_big",
+  "colorArray":"F9C207"
+},
+{
+  "imageName":"thumbs_up",
+  "bigImageName":"thumbs_up_big",
+  "colorArray":"20BC20"
+},
+{
+  "imageName":"thumbs_down",
+  "bigImageName":"thumbs_down_big",
+  "colorArray":"CF229C"
+},
+{
+  "imageName":"raining",
+  "bigImageName":"raining_big",
+  "colorArray":"0E5895"
+},
+{
+  "imageName":"clock",
+  "bigImageName":"clock_big",
+  "colorArray":"0FC1E7"
+}]

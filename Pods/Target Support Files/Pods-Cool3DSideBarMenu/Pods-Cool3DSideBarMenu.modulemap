@@ -1,0 +1,6 @@
+framework module Pods_Cool3DSideBarMenu {
+  umbrella header "Pods-Cool3DSideBarMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
